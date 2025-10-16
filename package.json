@@ -4,7 +4,7 @@
   "description": "proxy to fetch cors errors",
   "license": "ISC",
   "author": "Dhiraj",
-  "type": "commonjs",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
